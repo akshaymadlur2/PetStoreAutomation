@@ -1,0 +1,55 @@
+18:20:38.359 [main] INFO  api.Test.UserTests - *****Creating User************
+18:20:41.481 [main] INFO  api.Test.UserTests - ***** User is Created************
+18:20:41.498 [main] INFO  api.Test.UserTests - ***** Reading User************
+18:20:42.809 [main] INFO  api.Test.UserTests - *****User is Displayed************
+18:20:42.818 [main] INFO  api.Test.UserTests - *****Updating User************
+18:20:45.281 [main] INFO  api.Test.UserTests - ***** User Updated************
+18:20:45.288 [main] INFO  api.Test.UserTests - *****Deleting User************
+18:20:46.587 [main] INFO  api.Test.UserTests - ****** User Deleted************
+10:57:36.501 [main] INFO  api.Test.UserTests - *****Creating User************
+10:57:39.617 [main] INFO  api.Test.UserTests - ***** User is Created************
+10:57:39.635 [main] INFO  api.Test.UserTests - ***** Reading User************
+10:57:40.959 [main] INFO  api.Test.UserTests - *****User is Displayed************
+10:57:40.964 [main] INFO  api.Test.UserTests - *****Updating User************
+10:57:43.465 [main] INFO  api.Test.UserTests - ***** User Updated************
+10:57:43.471 [main] INFO  api.Test.UserTests - *****Deleting User************
+10:57:44.681 [main] INFO  api.Test.UserTests - ****** User Deleted************
+11:09:56.431 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:56.435 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:56.436 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:56.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:56.930 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:56.931 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:56.966 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:56.967 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:56.968 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:56.992 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:56.993 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:56.994 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:57.018 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:57.019 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:57.019 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:10:03.504 [main] INFO  api.Test.UserTests - *****Creating User************
+11:10:05.063 [main] INFO  api.Test.UserTests - ***** User is Created************
+11:10:05.065 [main] INFO  api.Test.UserTests - ***** Reading User************
+11:10:06.263 [main] INFO  api.Test.UserTests - *****User is Displayed************
+11:10:06.267 [main] INFO  api.Test.UserTests - *****Updating User************
+11:10:08.775 [main] INFO  api.Test.UserTests - ***** User Updated************
+11:10:08.778 [main] INFO  api.Test.UserTests - *****Deleting User************
+11:10:10.044 [main] INFO  api.Test.UserTests - ****** User Deleted************
+11:14:15.728 [main] INFO  api.Test.UserTests - *****Creating User************
+11:14:18.504 [main] INFO  api.Test.UserTests - ***** User is Created************
+11:14:18.516 [main] INFO  api.Test.UserTests - ***** Reading User************
+11:14:19.751 [main] INFO  api.Test.UserTests - *****User is Displayed************
+11:14:19.754 [main] INFO  api.Test.UserTests - *****Updating User************
+11:14:22.272 [main] INFO  api.Test.UserTests - ***** User Updated************
+11:14:22.274 [main] INFO  api.Test.UserTests - *****Deleting User************
+11:14:23.530 [main] INFO  api.Test.UserTests - ****** User Deleted************
+11:27:23.324 [main] INFO  api.Test.UserTests - *****Creating User************
+11:27:26.095 [main] INFO  api.Test.UserTests - ***** User is Created************
+11:27:26.103 [main] INFO  api.Test.UserTests - ***** Reading User************
+11:27:27.402 [main] INFO  api.Test.UserTests - *****User is Displayed************
+11:27:27.405 [main] INFO  api.Test.UserTests - *****Updating User************
+11:27:29.944 [main] INFO  api.Test.UserTests - ***** User Updated************
+11:27:29.950 [main] INFO  api.Test.UserTests - *****Deleting User************
+11:27:31.241 [main] INFO  api.Test.UserTests - ****** User Deleted************
